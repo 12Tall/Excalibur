@@ -20,6 +20,13 @@ namespace ExTest
             var list3 = students.DistinctBy(stu => new {stu.Age, stu.Name}).ToArray();
         }
 
+        [Fact]
+        public void NewTest()
+        {
+            Student alice = new Student("alice", 12, "female");
+            var foo = new {alice.Name, alice.Age};
+        }
+
         public class Student
         {
             public string Name { get; set; }
