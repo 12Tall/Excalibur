@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excalibur", "Excalibur\Excalibur.csproj", "{75B8D5C9-280E-41E8-8FF0-1BC521C80E13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExTest", "ExTest\ExTest.csproj", "{D540C84D-EBE9-4964-8BAC-C3A1FA9FCB2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75B8D5C9-280E-41E8-8FF0-1BC521C80E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B8D5C9-280E-41E8-8FF0-1BC521C80E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B8D5C9-280E-41E8-8FF0-1BC521C80E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D540C84D-EBE9-4964-8BAC-C3A1FA9FCB2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D540C84D-EBE9-4964-8BAC-C3A1FA9FCB2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D540C84D-EBE9-4964-8BAC-C3A1FA9FCB2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D540C84D-EBE9-4964-8BAC-C3A1FA9FCB2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
